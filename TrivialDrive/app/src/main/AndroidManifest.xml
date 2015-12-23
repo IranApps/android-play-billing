@@ -18,7 +18,7 @@
           package="com.example.android.trivialdrivesample">
 
     <!-- VERY IMPORTANT! Don't forget this permission, or in-app billing won't work. -->
-    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="ir.tgbs.iranapps.permission.BILLING" />
 
     <application android:allowBackup="true"
                  android:label="@string/app_name"
